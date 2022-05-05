@@ -8,5 +8,9 @@ Deployments: CPE Today, Demo site, Clockwork Training
 ## LiveHero
 Deployments: CPE Today, Demo site, Clockwork Training, Varsity Sports TV
 
-## ListHero
+## AssociationHero
 Deployments: (none - in development)
+
+## ListHero
+Deployments: (none - in development for CPE Today)
+
